@@ -11,6 +11,6 @@ node server.js 端口号
 ## 支持的文件类型
 * html
 * css
-* JavaScript
+* js
 * png
 * jpg
